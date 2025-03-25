@@ -1,6 +1,5 @@
 # International-Debt-Analysis-Using-SQL
-1. Introduction
-This project explores global debt data using PostgreSQL to analyze total debt, country-specific debt levels, and debt indicators.
+1. Introduction: This project explores global debt data using PostgreSQL to analyze total debt, country-specific debt levels, and debt indicators.
 2. Process and Query Logic
 Step 1: Connecting to the Database
 

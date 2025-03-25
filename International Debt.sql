@@ -28,4 +28,4 @@ select  indicator_name, COUNT(*) as frequency
 from datanalytics.international_debt id 
 group by id.indicator_name 
 order by frequency desc
-limit 6;
+limit 1;
